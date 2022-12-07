@@ -42,6 +42,6 @@
     "vue-template-compiler": "^2.6.12"
   },
   "dependencies": {
-    "tv-icon": "^1.0.1"
+    "tv-icon": "git+https://github.com/davmixcool/tv-icon.git"
   }
 }
